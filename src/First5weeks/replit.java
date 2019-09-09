@@ -8,7 +8,7 @@ public class replit {
 		
 		System.out.println("hello");
 		
-		
+		System.out.println("hello word");
 		
 		
 		
